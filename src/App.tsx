@@ -4,7 +4,7 @@ import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import Advertisements from "./pages/Advertisements/Advertisements";
 import NewAdvertisement from "./pages/Advertisements/NewAdvertisement/NewAdvertisement";
-import Details from "./pages/Details.tsx/Details";
+import Details from "./pages/Details/Details";
 import Login from "./pages/Login/Login";
 import Register from "./pages/Register/Register";
 import theme from "./utility/themes";
